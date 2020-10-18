@@ -1,6 +1,5 @@
 # Make a simple robot assistant
-# Something wrong with make_response
-# Still not fixed
+# Main issues fixed now. Changing Dictionary providers soon
 
 
 def break_up(self):
